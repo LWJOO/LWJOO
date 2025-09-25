@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**LWJOO/LWJOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! 끊임없이 새로운 것을 배우고 적용하는 **풀스택 개발자**입니다.  
+복잡한 문제 해결과 효율적인 시스템 구현에 강점이 있습니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Back-End**: Java, Spring Boot, Python, C  
+- **Front-End**: React, HTML, JavaScript, CSS  
+- **Database**: Oracle, MySQL (SQLD 자격), DB 설계, 쿼리 최적화  
+- **DevOps**: Docker, REST API 설계·배포  
+- **AI/ML**: 데이터 분석, 머신러닝 / 딥러닝 실무  
+- **기타**: 비동기 프로그래밍, 시스템 프로그래밍, 영상 처리 서비스 개발
+
+---
+
+## 🏢 Experience & Status
+
+- 🧑‍💻 실전 중심의 다양한 웹/모바일·AI/ML·영상처리 프로젝트 경험
+- 📚 컴퓨터공학 전공 및 개발 실무진행
+- 🚀 계속해서 역량을 키우는 소프트웨어 개발자
+
+---
+
+## 🚩 Projects
+
+### 🎥 영상 분석 통합 백엔드 서비스
+  - 여러 영상 파일 업로드 → DB 저장, MP3 추출 후 집중도·감정·STT·LLM 분석 자동화
+  - Spring Boot+React 백엔드/프론트, 도커-MySQL 연동, REST API 설계
+  - **기술**: Java, Spring Boot, React, Docker, MySQL
+
+### 🩸 Blood Donation Website Clone
+  - 헌혈 예약/설문/행사 관리(전자문진, 관리자 패널 등) 통합 시스템
+  - Oracle DB 설계, Spring/JSP 서버, 관리자 기능 담당
+  - **기술**: Java, Spring, Oracle, JSP
+
+### 🗺️ 모바일 GPS 경로 추적 앱
+  - React Native 기반 GPS 실시간 경로 기록 + 시각화, Node.js·Oracle 연동
+  - 위치 데이터 실시간 처리, 지도 API 적용
+
+---
+
+## 💡 Value
+
+> "사람들에게 도움이 되는 소프트웨어를 만들고, 성장을 멈추지 않아야 진짜 개발자다."
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [본인 이메일]
+- 📝 Blog: [블로그 주소]
+- 💻 (선택) GitHub/LinkedIn: [링크]
+
+---
+
+**방문해주셔서 감사합니다! 🙏 좋은 인연 기대합니다.**
