@@ -23,14 +23,14 @@
 <img src="https://img.shields.io/badge/Machine Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Deep Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Data Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
 ### 🔧 기타
-<img src="https://img.shields.io/badge/Async Programming-000000?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/System Programming-0078D4?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Video Processing-FF0000?style=for-the-badge&logo=ffmpeg&logoColor=white">
+<img src="https://img.shields.io/badge/Raspberry Pi 4-CA4248?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi 4 Badge">
 
 ---
 
 ## 🏢 Experience & Status
 
-- 🧑‍💻 실전 중심의 다양한 웹/모바일·AI/ML·영상처리 프로젝트 경험
-- 📚 컴퓨터공학 전공 및 개발 실무진행
+- 🧑‍💻 실전 중심의 다양한 웹·AI/ML·영상처리 프로젝트 경험
+- 📚 전자공학 전공
 - 🚀 계속해서 역량을 키우는 소프트웨어 개발자
 
 ---
