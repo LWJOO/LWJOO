@@ -14,22 +14,16 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 ### 🗄️ Database
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLD-FF6B35?style=for-the-badge&logo=database&logoColor=white"> <img src="https://img.shields.io/badge/DB Design-005571?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLD-FF6B35?style=for-the-badge&logo=database&logoColor=white">
 
 ### 🚀 DevOps
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/REST API-02569B?style=for-the-badge&logo=swagger&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/REST API-02569B?style=for-the-badge&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 ### 🤖 AI/ML
-<img src="https://img.shields.io/badge/Machine Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Deep Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Data Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Machine Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Deep Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Data Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
 ### 🔧 기타
-<img src="https://img.shields.io/badge/Async Programming-000000?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/System Programming-0078D4?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/Video Processing-FF0000?style=for-the-badge&logo=ffmpeg&logoColor=white">
+<img src="https://img.shields.io/badge/Async Programming-000000?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/System Programming-0078D4?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Video Processing-FF0000?style=for-the-badge&logo=ffmpeg&logoColor=white">
 
 ---
 
